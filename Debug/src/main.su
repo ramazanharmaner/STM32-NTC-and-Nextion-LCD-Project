@@ -1,0 +1,11 @@
+core_cm3.h:930:22:NVIC_EnableIRQ	16	static
+main.c:31:5:main	16	static
+main.c:70:6:GPIOC_Init	16	static
+main.c:93:6:USART1_Init	32	static
+main.c:137:6:led_toggle	16	static
+main.c:155:6:USART1_IRQHandler	8	static
+main.c:176:6:ADC_Configuration	32	static
+main.c:229:5:readADC1	16	static
+main.c:241:6:putch	16	static
+main.c:248:6:putst	16	static
+main.c:277:6:delay	24	static
